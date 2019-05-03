@@ -199,7 +199,7 @@ assintótico para ***f(n)***, para enfatizar que estamos suprimento fatores cons
 # 20 Problema
 ### Crie um gráfico explicando a notação O-grande. Utilize *f(n)* = 2n + 4. Qual é um valor possível para n0?
 **n0 = 3**
-![](./20.png)
+![20](./20.png)
 # 21 Problema
 ### O que é a notação o-pequeno ou Little-Oh?
 A notação o-–pequeno diz que uma função é ***menor que*** a outra função g(n). Ou seja, **f** é dominada por **g** assintoticamente.
@@ -208,7 +208,7 @@ A notação o-–pequeno diz que uma função é ***menor que*** a outra funçã
 Formalmente definimos como: Onde ***R+*** é o conjunto dos reais não negativos.
 # 23 Problema
 ### Crie um gráfico explicando a notação o-pequeno.
-
+![23](./23.png)
 # 24 Problema
 ### Passe a notação O-grande e o-pequeno as funções abaixo:
 ### A *F(n)* = n + 1
